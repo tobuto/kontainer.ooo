@@ -1,9 +1,0 @@
-@import '../../../kro-material';
-
-:host {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100%;
-    background-color: mat-color($primary);
-}
